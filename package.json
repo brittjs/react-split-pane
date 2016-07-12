@@ -31,7 +31,7 @@
     "browserify": "^13.0.1",
     "chai": "^3.5.0",
     "chai-spies": "^0.7.1",
-    "coveralls": "^2.11.9",
+    "coveralls": "^2.11.10",
     "eslint": "^3.0.0",
     "eslint-config-airbnb": "^9.0.1",
     "eslint-plugin-import": "^1.10.2",
